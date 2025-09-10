@@ -10,8 +10,9 @@ This directory includes all the files that are required for running sentinel LDK
   git checkout Runtime
 
 
-# This branch also includes the License Manager configuration file(hasplm.ini)
-
+# This branch also includes the License Manager configuration file(hasplm.txt)
+  Change the file extension from txt to ini
+    mv hasplm.txt hasplm.ini
 
 # Install the runtime useing command
 
